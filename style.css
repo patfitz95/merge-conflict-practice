@@ -1,14 +1,16 @@
-.main{
-  text-align: center;
-  height: 100%;
-  width: 100%;
-}
-.one{
 
-background-color: bisque;
+.main-container {
+  width: 100%;
+  height: auto;
+  text-align: center;
 }
-.two{
-  background-color: blue;
+.square1 {
+  color:blue;
 }
-.three{background-color: chartreuse;
+.square2 {
+  color: green;
+}
+.square3 {
+  color: red;
+
 }

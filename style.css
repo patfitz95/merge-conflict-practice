@@ -1,0 +1,14 @@
+.main{
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+.one{
+
+background-color: bisque;
+}
+.two{
+  background-color: blue;
+}
+.three{background-color: chartreuse;
+}
